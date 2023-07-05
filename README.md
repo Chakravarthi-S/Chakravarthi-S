@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Chakravarthi-S
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning to Code
+- 💞️ I’m looking to collaborate on ML
+- 📫 How to reach me (wait)
